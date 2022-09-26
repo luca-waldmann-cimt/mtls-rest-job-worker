@@ -1,0 +1,3 @@
+io\camunda\getstarted\EmailWorker.class
+io\camunda\getstarted\ZeebeClientFactory.class
+io\camunda\getstarted\DeployAndStartInstance.class
